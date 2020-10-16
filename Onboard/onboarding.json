@@ -1,12 +1,8 @@
 {
     "deployments": [
         {
-            "resourcegroup": "sentinel",
-            "workspace": "sorisentinel"
-        },
-        {
-            "resourcegroup": "production",
-            "workspace": "testlasoricloud"
+            "resourcegroup": "sentinel-dev-euw",
+            "workspace": "sentinel-dev"
         }
     ]
 }
